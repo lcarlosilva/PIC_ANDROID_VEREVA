@@ -1,24 +1,14 @@
 <resources>
-    <string name="app_name">HelloWorld</string>
+    <string name="app_name">Teimosinha</string>
 
     <string name="hello_world">
         Minions ipsum ti aamoo! Tatata bala tu butt pepete gelatooo.
         Jiji butt bananaaaa jiji poulet tikka masala potatoooo jiji.
         Poopayee uuuhhh bee do bee do bee do jeje tank yuuu! Tank yuuu! hana dul sae hahaha poulet tikka masala butt ti aamoo!
         Butt poulet tikka masala jiji tatata bala tu. Uuuhhh butt ti aamoo!
-        Underweaaar me want bananaaa! Baboiii jeje la bodaaa aaaaaah chasy tatata bala tu bananaaaa.
-        Hahaha daa me want bananaaa! Poopayee hana dul sae jeje me want bananaaa! Poulet tikka masala po kass.
-        Daa tatata bala tu uuuhhh ti aamoo! Baboiii tulaliloo pepete la bodaaa. Hahaha potatoooo hana dul sae poopayee aaaaaah tank yuuu!
-        Baboiii ti aamoo! Jeje bee do bee do bee do. Butt jeje chasy daa ti aamoo!
-        Uuuhhh tatata bala tu uuuhhh ti aamoo! Aaaaaah tatata bala tu me want bananaaa! Uuuhhh jiji hana dul sae po kass chasy la bodaaa.
-        Tulaliloo tulaliloo tulaliloo hahaha bappleees daa poopayee. Potatoooo underweaaar ti aamoo! Butt tulaliloo butt butt.
-        Gelatooo underweaaar jeje butt tank yuuu! Tatata bala tu chasy po kass. Pepete bananaaaa jeje bananaaaa.
-        Pepete tulaliloo underweaaar tatata bala tu para tú me want bananaaa! Jeje bananaaaa me want bananaaa! Hana dul sae.
-        Tulaliloo jiji jeje jiji tank yuuu! Belloo! Belloo! Tulaliloo poulet tikka masala wiiiii. Potatoooo bappleees jiji bee do bee do bee do wiiiii butt jeje.
-        Hahaha ti aamoo! Underweaaar para tú pepete wiiiii ti aamoo! Me want bananaaa! Tulaliloo po kass me want bananaaa!
-        Bananaaaa la bodaaa ti aamoo! Ti aamoo! Bee do bee do bee do bee do bee do bee do. Baboiii pepete para tú underweaaar.
-        Potatoooo jiji baboiii bappleees ti aamoo! Baboiii belloo! Gelatooo bananaaaa baboiii baboiii poopayee jeje daa para tú.
-        Hahaha para tú para tú uuuhhh bananaaaa.
     </string>
     <string name="action_settings">Settings</string>
+    <string name="login">Login</string>
+    <string name="userName">User Name</string>
+    <string name="userPassword">User Password</string>
 </resources>
