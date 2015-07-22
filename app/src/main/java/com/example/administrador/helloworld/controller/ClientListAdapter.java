@@ -1,12 +1,13 @@
-package com.example.administrador.helloworld;
+package com.example.administrador.helloworld.controller;
 
 import android.app.Activity;
-import android.content.Context;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.Adapter;
 import android.widget.BaseAdapter;
 import android.widget.TextView;
+
+import com.example.administrador.helloworld.R;
+import com.example.administrador.helloworld.model.entities.Client;
 
 import java.util.List;
 
@@ -32,6 +33,7 @@ public class ClientListAdapter extends BaseAdapter {
 
     @Override
     public long getItemId(int position) {
+
         return position;
     }
 

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Teimosinha</string>
+    <string name="hello_world">Olá mundo</string>
+    <string name="action_settings">Opções</string>
+    <string name="login">Entrar</string>
+    <string name="userName">Usuário</string>
+    <string name="userPassword">Senha</string>
+    <string name="nome">Nome</string>
+    <string name="idade">Idade</string>
+    <string name="cpf">CPF</string>
+    <string name="peso">Peso</string>
+    <string name="save">save</string>
+</resources>

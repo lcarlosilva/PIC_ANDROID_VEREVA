@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity_HelloWorld">
+    <item
+        android:id="@+id/menuSave"
+        app:showAsAction="always"
+        android:title="@string/save"
+        android:icon="@drawable/ic_action_menu_save"></item>
+</menu>

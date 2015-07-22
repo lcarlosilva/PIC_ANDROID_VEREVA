@@ -11,4 +11,9 @@
     <string name="login">Login</string>
     <string name="userName">User Name</string>
     <string name="userPassword">User Password</string>
+    <string name="nome">Nome</string>
+    <string name="idade">Idade</string>
+    <string name="cpf">CPF</string>
+    <string name="peso">Peso</string>
+    <string name="save">save</string>
 </resources>
